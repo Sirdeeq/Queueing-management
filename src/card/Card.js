@@ -27,10 +27,3 @@ function Item({item,i, active}){
 
 
 
-{/* <div className="border p-3 m-3">
-            <h1 className="bg-primary text-white">{title}</h1>
-            <hr></hr>
-            <ol>
-               {list.map((item,i) => <li key={i} className={i<1? 'bg-primary': ''}>{item.name1}</li>)}
-            </ol>
-        </div> */}

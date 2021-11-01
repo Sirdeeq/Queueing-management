@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "./Card";
 import list from "./list";
-import { Container, Row, Col } from 'reactstrap';
+import {  Row, Col } from 'reactstrap';
 export default function App() {
   return (
 
